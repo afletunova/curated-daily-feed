@@ -1,0 +1,14 @@
+{
+  "feeds": [
+    {
+      "name": "Example Tech News",
+      "url": "https://example.com/feed.xml",
+      "category": "technology"
+    },
+    {
+      "name": "Example Science News",
+      "url": "https://example.com/science.xml",
+      "category": "science"
+    }
+  ]
+}

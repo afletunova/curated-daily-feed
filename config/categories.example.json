@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "technology",
+      "name": "Technology",
+      "highlight_count": 3,
+      "deep_dive_count": 1
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "highlight_count": 3,
+      "deep_dive_count": 1
+    },
+    {
+      "id": "uncategorized",
+      "name": "Other News",
+      "highlight_count": 2,
+      "deep_dive_count": 0
+    }
+  ]
+}
