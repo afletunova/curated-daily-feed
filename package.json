@@ -1,0 +1,23 @@
+{
+  "name": "curated-daily-feed",
+  "version": "0.1.0",
+  "description": "Self-hosted RSS digest generator with AI summarization",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [
+    "rss",
+    "digest",
+    "ai",
+    "n8n",
+    "newspaper"
+  ],
+  "author": "Yulia Afletunova",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.9.4",
+    "prettier-plugin-sql": "^0.20.0"
+  }
+}
